@@ -1,2 +1,2 @@
 # Pong
-This is a pong game made in godot
+This is a pong game that I made in godot
